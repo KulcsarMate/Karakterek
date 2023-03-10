@@ -19,3 +19,11 @@ html{
     color: red;
     font-size: 2rem;
 }
+#usa {
+    font-variant: small-caps;
+}
+#IFAB {
+    color: blue;
+    font-family: cursive;
+
+}
