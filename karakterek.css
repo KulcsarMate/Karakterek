@@ -1,0 +1,21 @@
+#foci {
+    font-weight: bold;
+    font-style: italic;
+}
+#feetball {
+    font-size: 2em;
+    background-color: white;
+}
+
+p {
+    font-size: 16px;
+}
+
+html{
+    font-size: 6px;
+}
+
+#fútball {
+    color: red;
+    font-size: 2rem;
+}
